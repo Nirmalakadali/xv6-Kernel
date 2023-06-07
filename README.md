@@ -1,8 +1,4 @@
 # Enhancing XV 6 RISC V
----
-## K. Lakshmi Nirmala (2021101126)
-## V. Siva Koti Reddy (2021101135)
----
 > Note : The following commands are with respect to the write in vscode and execute it in vscode  and i run it on ubuntu
 
 > This XV 6 supports schedulers like MLFQ,PBS,FCFS,RR
